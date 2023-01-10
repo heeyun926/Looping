@@ -9,4 +9,5 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="kakao_native_key">70f3d3521c8e34b5f3e6b33be609152f</string>
 </resources>
